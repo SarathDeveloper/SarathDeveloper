@@ -1,49 +1,71 @@
-# 👋 Hi there! I'm Sarathkumar M
+# 👋 Hi there! It's me Hareesh
 
-🎯 **Java Developer | Spring Boot | Hibernate | MySQL | REST APIs | Microservices**
-
-I'm a passionate Java backend developer with 1 year of professional experience. I specialize in building scalable backend systems using Java, Spring, and Hibernate. I'm currently open to high-impact backend roles and aiming for growth in product-based or high-paying companies.
-
----
-
-## 🧰 Tech Stack
-
-- 💻 **Languages**: Java 8+, SQL, JavaScript
-- 🧪 **Frameworks**: Spring Boot, Spring MVC, Hibernate
-- 🗃️ **Database**: MySQL, PostgreSQL
-- 📡 **API**: RESTful Services, Postman
-- ⚙️ **Tools**: Maven, Git, JIRA, IntelliJ, Eclipse
-- 🧪 **Testing**: JUnit, Mockito
-- 🌐 **Frontend (Basics)**: HTML, CSS, Bootstrap, React.js
-- ☁️ **Others**: Apache JMeter, JWT, CSV Handling
+### 🧑‍💻 Software Engineer @ Zoho Corporation  
+🔭 Here's my [Portfolio](https://your-portfolio-link.com)  
+🌱 Currently learning and teaching **DSA**, and integrating **AI** into my workflow  
+🌐 Engineering at Zoho  
+💼 Previously worked with [Company name / project if any]  
+⚡ **Fun fact**: I know **Japanese**  
 
 ---
 
-## 🔧 Projects
+### 📱 Social Presence
 
-### 🔹 Slot Booking Application
-A scalable application for booking slots across multiple activities (sports, services, etc.) with:
-- Vendor & Customer management
-- Slot generation & booking logic
-- CSV export/import, Razorpay payment integration
-- Spring 4.3 + Hibernate 4.3 + MySQL
-
-> 📂 [View Code](https://github.com/your-username/slot-booking-app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@yourchannel)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
-## 📈 Career Goals
-- Aim: Backend Developer role at a product-based company with a 10 LPA package.
-- Learning: Data Structures & Algorithms, System Design, Java 17, Cloud Basics (AWS/GCP)
+### 📊 YouTube Stats
+
+- 🎥 **Channel Views**: 50,000+
+- 👥 **Subscribers**: 2,000+
+
+> [Visit My Channel](https://www.youtube.com/@yourchannel)
 
 ---
 
-## 📫 Let's Connect
+### 💻 I code in
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📧 Email: your.email@example.com
-- 🧑‍💻 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+### 🧰 IDEs & Tools I Use
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 💻 Workspace Specs
+
+- 🖥️ Laptop: [Your laptop model]
+- 💾 RAM: 16GB
+- 💡 OS: Windows / Mac / Ubuntu
+- 🔌 CPU: Intel i7 / M1 / Ryzen (choose yours)
+
+---
+
+### 📈 Hareesh's GitHub Stats
+
+![Hareesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+---
+
+🧠 *“Strive for progress, not perfection.”*
