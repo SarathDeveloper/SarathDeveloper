@@ -1,4 +1,4 @@
-# 👋 Hi there! It's me Sarathkumar M
+# 👋 Hi there! I'm Sarathkumar M
 
 ### 🧑‍💻 Software Engineer @ Cotyledon Technologies Private Limited 
 🔭 Here's my [Portfolio](https://your-portfolio-link.com)  
