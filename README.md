@@ -1,12 +1,9 @@
-# 👋 Hi there! It's me Hareesh
+# 👋 Hi there! It's me Sarathkumar M
 
-### 🧑‍💻 Software Engineer @ Zoho Corporation  
+### 🧑‍💻 Software Engineer @ Cotyledon Technologies Private Limited 
 🔭 Here's my [Portfolio](https://your-portfolio-link.com)  
-🌱 Currently learning and teaching **DSA**, and integrating **AI** into my workflow  
-🌐 Engineering at Zoho  
-💼 Previously worked with [Company name / project if any]  
-⚡ **Fun fact**: I know **Japanese**  
-
+🌱 Currently learning **DSA**, and integrating **AI** into my workflow  
+🌐 Engineering at Cotyledon  
 ---
 
 ### 📱 Social Presence
