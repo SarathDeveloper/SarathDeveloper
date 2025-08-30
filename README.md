@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarathkumar M
 
-🚀 **Java Full Stack Developer** | 💻 Passionate about building scalable applications | 🌐 Open Source Enthusiast
+🚀 **Java Full Stack Developer** | 💻 Passionate about building scalable applications 
 
 ---
 
