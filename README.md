@@ -8,21 +8,11 @@
 
 ### 📱 Social Presence
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@yourchannel)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sarathkumar-m-jav))
 
----
 
-### 📊 YouTube Stats
 
-- 🎥 **Channel Views**: 50,000+
-- 👥 **Subscribers**: 2,000+
 
-> [Visit My Channel](https://www.youtube.com/@yourchannel)
-
----
 
 ### 💻 I code in
 
