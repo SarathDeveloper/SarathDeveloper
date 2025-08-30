@@ -13,15 +13,40 @@ I enjoy solving real-world problems, crafting efficient backend systems, and bui
 - ⚡ Developed **Pick Your Slot** – an online marketplace for booking sports, gyms, and personal care  
 - 🎯 Passionate about **cloud deployments, system optimization, and scalable architectures**
 
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Backend:** Java, Spring Boot, Hibernate, Spring Security, JWT, Batch Jobs  
-**Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-**Databases:** MySQL, JPQL  
-**Cloud & DevOps:** AWS (EC2, S3, RDS), Git, Bitbucket, Linux (Ubuntu)  
-**Integrations & Tools:** Razorpay (Payment Gateway), Msg91 (Messaging)  
+### 🚀 Languages & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+</p>
+
+### 🔗 Integrations & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
+  <img src="https://img.shields.io/badge/Msg91-0088cc?style=for-the-badge&logo=messenger&logoColor=white" alt="Msg91"/>
+</p>
 
 ---
 
