@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarathkumar M
 
-🚀 **Java Full Stack Developer** | 💻 A passionate Java Full Stack Developer with about 1.6 years of professional experience
+🚀 **Java Full Stack Developer** | 💻 A passionate Java Full Stack Developer with about 2+ years of professional experience
 
 ---
 
