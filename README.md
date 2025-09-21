@@ -61,7 +61,7 @@ I enjoy solving real-world problems, crafting efficient backend systems, and bui
 - Integrated **Razorpay** for payments and **Msg91** for notifications  
 - Implemented batch jobs for automated processing  
 
-### 🔹 React Developer Intern – Webfamily Tech Solution  
+### 🔹 Software Developer Intern – Webfamily Tech Solution  
 *Jun 2024 – Aug 2024*  
 - Developed responsive UI components using React.js & Hooks  
 - Collaborated with backend teams to integrate APIs  
